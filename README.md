@@ -25,3 +25,5 @@ N/A
 ## Lisense
 
 N/A
+
+deployed link: https://dexzax.github.io/Portfolio/
